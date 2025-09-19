@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngelChels
-- 👀 I’m interested in Software Development Technologies 
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on FinTech Programming/Statistics code
+- 👀 I’m a DevOps Engineer with a great interest in Software Development Technologies 
+- 🌱 I’m currently preparing for the Certified Kubernetes Application Developer
+- 💞️ I’m looking to collaborate on DevOps/FinTech Programming/Statistics code
 - 📫 How to reach me ...chelseandikum@gmail.com
 
 <!---
